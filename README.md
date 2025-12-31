@@ -97,7 +97,9 @@ Normalizes similar names so only a single canonical form exists across the JSON.
 
 A Retrieval-Augmented Generation (RAG) pipeline is provided to add contextual depth when querying references.
 
-Reference:See `debug/rag.ipynb` for implementation details.
+Reference : See `debug/rag.ipynb` for implementation details.
+
+Due to size limits the SEBI_RAG.faiss file (343.98 MB) could not be uploaded. Please run the `debug/rag.ipynb` to get the same.
 
 ### 7. Streamlit UI
 
