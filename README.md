@@ -2,7 +2,12 @@
 
 Click the thumbnail below for a short video walkthrough explaining the problem statement, overall approach, and implementation details of this project.
 
-<video src="https://github.com/bryaanabraham/sebi-circular-reference-extractor/blob/main/assets/Hyde_Task_demo_explanation.mp4" controls></video>
+<p align="center">
+  <a href="assets/Hyde_Task_demo_explanation.mp4">
+    <img src="assets/image.png" alt="Project Walkthrough Video" width="600">
+  </a>
+</p>
+
 
 
 ## Setup
