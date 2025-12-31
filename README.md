@@ -28,7 +28,7 @@ This design ensures that:
 - Optional LLM calls are used only when deeper contextual reasoning is needed
 
 This significantly reduces operational costs compared to invoking an LLM for every uploaded document.
-The entire set up for this project including testing incurred a cost of 0.94$ as measure on OpenAI billing
+The entire set up for this project including testing incurred a cost of 0.94$ as measured on OpenAI billing
 
 ### Detailed Workflow
 ### 1. Scraping Circulars & PDFs
