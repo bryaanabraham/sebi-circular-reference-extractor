@@ -2,7 +2,7 @@
 
 Click the thumbnail below for a short video walkthrough explaining the problem statement, overall approach, and implementation details of this project.
 
-[![Explanation Video](https://github.com/bryaanabraham/sebi-circular-reference-extractor/blob/main/assets\image.png.png)](https://github.com/bryaanabraham/sebi-circular-reference-extractor/blob/main/assets\Hyde_Task_demo_explanation.mp4)
+[![Explanation Video](https://github.com/bryaanabraham/sebi-circular-reference-extractor/blob/main/assets/image.png)](https://github.com/bryaanabraham/sebi-circular-reference-extractor/blob/main/assets/Hyde_Task_demo_explanation.mp4)
 
 ## Setup
 ```ptyhon
