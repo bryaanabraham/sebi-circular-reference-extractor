@@ -1,15 +1,3 @@
-## 🎥 Project Walkthrough (Video)
-
-Click the thumbnail below for a short video walkthrough explaining the problem statement, overall approach, and implementation details of this project.
-
-<p align="center">
-  <a href="assets/Hyde_Task_demo_explanation.mp4">
-    <img src="assets/image.png" alt="Project Walkthrough Video" width="600">
-  </a>
-</p>
-
-
-
 ## Setup
 ```ptyhon
 python -m pip install --upgrade pip
