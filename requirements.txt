@@ -1,0 +1,15 @@
+google-genai
+ipykernel
+python-dotenv
+requests
+beautifulsoup4
+tqdm
+lxml
+pdfplumber
+rapidfuzz
+networkx 
+matplotlib
+scipy
+streamlit
+langchain
+faiss-cpu

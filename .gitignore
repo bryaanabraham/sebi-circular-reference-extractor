@@ -1,0 +1,13 @@
+.env
+venv/
+files/
+pdfs/
+debug/all_pdfs.txt
+debug/deub.txt
+debug/list.txt
+debug/knowledge_graph.txt
+debug/knowledge_graph.json
+debug/knowledge_graph_cleaned.json
+1.md
+txts/
+SEBI_RAG.faiss
